@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FABLAB_BOT_00.PcbDoc   25/11/2015  22:45:39
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FABLAB_BOT_00.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.56mil (0.70002mm)     Round          3                0.10 Inch (2.54 mm)
+T2        29.53mil (0.75006mm)     Round          2                0.20 Inch (5.00 mm)
+T3        31.5mil (0.8001mm)       Round          6                0.52 Inch (13.30 mm)
+T4        43.31mil (1.10007mm)     Round          2                0.07 Inch (1.90 mm)
+T5        59.06mil (1.50012mm)     Round          2         NPTH   0.28 Inch (7.00 mm)
+---------------------------------------------------------------------------
+Totals                                            15               1.17 Inch (29.74 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
