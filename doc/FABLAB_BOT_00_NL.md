@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+
 # FABLAB_BOT_00 Soldeer instructies
 
 ![overview](overview.jpg)

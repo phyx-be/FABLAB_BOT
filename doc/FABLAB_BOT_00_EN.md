@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+
 # FABLAB_BOT_00 Soldering instructions
 
 ![overview](overview.jpg)
